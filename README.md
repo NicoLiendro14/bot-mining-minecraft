@@ -1,6 +1,6 @@
 # Bot Mining Minecraft
 
-A simple bot that mine in a straight way putting torchs to the sides of the cave. Also, you can mine without putting torchs.
+A simple bot that mine in a straight way putting torches to the sides of the cave. Also, you can mine without putting torches.
 
 ## Getting Started
 
