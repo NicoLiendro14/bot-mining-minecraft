@@ -43,8 +43,8 @@ If you want to check how does it work, see this [video](https://streamable.com/c
 
 ## Authors
 
-- **Nicolás Liendro** - _Initial work_ - [GitLab](https://gitlab.com/NicoLiendro14),
-  [GitHub](https://github.com/NicoLiendro14) and
+- **Nicolás Liendro** - _Initial work_ - [GitLab](https://gitlab.com/NicoLiendro14) and 
+  [GitHub](https://github.com/NicoLiendro14)
 
 ## License
 
